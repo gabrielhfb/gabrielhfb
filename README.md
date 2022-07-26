@@ -1,5 +1,5 @@
+![banner_github](https://user-images.githubusercontent.com/107951852/181027994-584dce92-52d3-4af4-ac2c-9c502bf0af9b.png)
 # Good morning, afternoon or evening!
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Atkinson+Hyperlegible&size=22&duration=4000&color=54DACD&center=true&vCenter=true&multiline=true&width=222&height=130&lines=Hey+there!;I'm+Gabriel+Henrique%2C;and+I+welcome+you;to+my+profile!)](https://git.io/typing-svg)
 
 ## You can find me on: 
