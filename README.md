@@ -15,8 +15,9 @@
 
 
 ## ![topic](https://user-images.githubusercontent.com/107951852/181074869-04a3e46e-d80d-41f5-aad3-c4c1ca74d389.png) I'm currently learning: 
-<img src="https://img.shields.io/badge/HTML5-%230077B5.svg?&style=flat&logo=html5&logoColor=white&color=54DACD&labelColor=E34F26">
 <img src="https://img.shields.io/badge/JavaScript-%230077B5.svg?&style=flat&logo=javaScript&logoColor=white&color=54DACD&labelColor=e5ca0a">
+<img src="https://img.shields.io/badge/HTML5-%230077B5.svg?&style=flat&logo=html5&logoColor=white&color=54DACD&labelColor=E34F26">
+<img src="https://img.shields.io/badge/CSS3-%230077B5.svg?&style=flat&logo=css3&logoColor=white&color=54DACD&labelColor=1572B6">
 <img src="https://img.shields.io/badge/React-%230077B5.svg?&style=flat&logo=react&logoColor=white&color=54DACD&labelColor=61DAFB">
 
 
