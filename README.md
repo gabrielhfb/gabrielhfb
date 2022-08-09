@@ -21,5 +21,5 @@
 <img src="https://img.shields.io/badge/React-%230077B5.svg?&style=flat&logo=react&logoColor=white&color=54DACD&labelColor=61DAFB">
 
 
-## You can find me on: 
+## ![topic](https://user-images.githubusercontent.com/107951852/181074869-04a3e46e-d80d-41f5-aad3-c4c1ca74d389.png) You can find me on: 
 <a href=https://www.linkedin.com/in/gabriel-henrique-fiszczuk-brandeburski/><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedIn&logoColor=0A66C2&color=0A66C2&labelColor=white"></a>
